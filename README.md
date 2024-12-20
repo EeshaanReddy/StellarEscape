@@ -10,7 +10,7 @@ The project files include:
 2. **Project Report**  
    - Detailed documentation of the project  
 3. **Demo Videos**  
-   - Showcasing the VR desires and music
+   - Showcasing the VR designs and music
 4. **iShowcase Images**  
    - Pictures and videos taken during the event
 
