@@ -10,9 +10,9 @@ The project files include:
 2. **Project Report**  
    - Detailed documentation of the project  
 3. **Demo Videos**  
-   - Showcasing the VR musical experience in action  
+   - Showcasing the VR desires and music
 4. **iShowcase Images**  
-   - High-quality visuals of the setup and gameplay  
+   - Pictures and videos taken during the event
 
 ## Sample Section  
 Access the sample section of the project files via this link:  
